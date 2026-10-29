@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<customers>
+  <customer>
+    <id>101</id>
+    <name>Arun</name>
+    <city>Chennai</city>
+    <phone>9876543210</phone>
+  </customer>
+  <customer>
+    <id>102</id>
+    <name>Meena</name>
+    <city>Madurai</city>
+    <phone>9123456780</phone>
+  </customer>
+</customers>

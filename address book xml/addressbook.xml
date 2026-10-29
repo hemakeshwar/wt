@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<addressbook>
+  <person>
+    <name>Sam</name>
+    <address>abcd</address>
+  </person>
+  <person>
+    <name>Meena</name>
+    <address>Madurai</address>
+  </person>
+</addressbook>

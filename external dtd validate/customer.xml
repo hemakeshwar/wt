@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE customers SYSTEM "customer.dtd">
+<customers>
+  <customer>
+    <id>101</id>
+    <name>Arun</name>
+    <city>Chennai</city>
+    <phone>9876543210</phone>
+  </customer>
+</customers>

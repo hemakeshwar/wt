@@ -1,0 +1,6 @@
+<!ELEMENT customers (customer+)>
+<!ELEMENT customer (id, name, city, phone)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
